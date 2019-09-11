@@ -48,12 +48,6 @@ if (isset($_POST['submit'])) {
     <input type="text" name="brand" id="brand">
     <label for="model">Model</label>
     <input type="text" name="model" id="model">
-    <label for="email">Email Address</label>
-    <input type="text" name="email" id="email">
-    <label for="age">Age</label>
-    <input type="text" name="age" id="age">
-    <label for="location">Location</label>
-    <input type="text" name="location" id="location">
     <input type="submit" name="submit" value="Submit">
   </form>
 
